@@ -1,7 +1,2 @@
-
-## Use basic p5.play-boilerplate
-Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
-
-## Please refer to code notes for explanation.
-
-### Output Link : https://vishnupriya-whitehatjr.github.io/c43-v2-TickTok/index.html
+Tick-Tock Its A Clock!!!
+## The OutPut Link:  https://areenapanda.github.io/tick-tock-its-a-clock-/
